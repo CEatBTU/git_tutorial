@@ -48,7 +48,7 @@ This repository provides a good platform to try this command. Try cloning the so
 
 Two fundamental commands for inspecting the files and status of a repository are `git status` and `git log`.
 
-## Viewing the current repository status
+### Viewing the current repository status
 
 `git status` gives you an overview of the current status of the repository. After cloning it, you should see something that looks like this:
 
@@ -69,7 +69,7 @@ A few important information here:
 - The last message tells you that your *working tree* (the set of files that are being kept track of) is clean; that is, nothing has been modified, and nothing is *staged for commit*.
 - A *commit* is a transaction on the git history. Roughly speaking, git performs version control efficiently by tracking only the changes between different commits. A commit then represents a set of files that were changed, along with those changes.
 
-## Viewing the current repository log (all commits)
+### Viewing the current repository log (all commits)
 
 `git log` allows you to view the latest *commits* that were done in the repository. When running it, you should see something that looks like this:
 
