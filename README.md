@@ -23,7 +23,7 @@ There are tons of online tutorials on git, but few enable a hands-on experience 
 - A **repository** is a, roughly speaking, a folder with contents that git keeps track of. git does this by using a `.git` folder inside the repository to store metadata related to the repository (including the ledger information).
 - The official page for the git tool, and also an excellent source of materials and references, is https://git-scm.com/ 
 
-## Preliminaries Pt 1: Installing git
+## Preliminaries Pt 2: Installing git
 
 git is supported both in Windows as well as in Linux, and can be used with or without a Graphical User Interface (GUI).  
 
